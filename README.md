@@ -1,16 +1,11 @@
 # counter_app
 
-A new Flutter project.
+The first Flutter project.
 
-## Getting Started
+## What I learned
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Make simple functions to increase and decrease the counter value.
+2. Change the styles of ElevatedButton() like colour, size, and border.
+3. Use the Row() function to put the two buttons next to each other.
+4. Use SizedBox(width: value) and SizedBox(height: value) to adjust the spacing on the widgets.
+5. To use setState() we must use a StatefulWidget.
